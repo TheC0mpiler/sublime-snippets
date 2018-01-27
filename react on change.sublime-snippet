@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+ onChange = e =>
+    this.setState({
+      ...this.state,
+      data: { ...this.state.data, [e.target.name]: e.target.value }
+    });
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ronc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

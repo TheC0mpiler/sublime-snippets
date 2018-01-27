@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+<Form.Field error={!!errors.${1:this}}>
+  <label htmlFor="${1:this}">${2:this}</label>
+  <input
+    type="${1:this}"
+    id="${1:this}"
+    name="${1:this}"
+    placeholder="${3:this}"
+    value={data.${1:this}}
+    onChange={this.onChange}
+  />
+  {errors.${1:this} && <InlineError text={errors.${1:this}} />}
+</Form.Field>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>rsemformfield</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

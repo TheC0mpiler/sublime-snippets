@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Babel",
+		"Babel Snippets",
+		"ESLint",
+		"ESLint-Formatter",
+		"ESLintAutoFix",
+		"Git",
+		"GitSavvy",
+		"JsPrettier",
+		"Package Control",
+		"React Templates",
+		"ReactJS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"SublimeLinter-eslint"
+	]
+}
