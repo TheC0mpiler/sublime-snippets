@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-export const ${1:this} = data => dispatch =>
+export const ${1:this} = ${2:this} => dispatch =>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>rthunk</tabTrigger>
