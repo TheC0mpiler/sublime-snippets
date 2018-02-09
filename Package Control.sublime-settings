@@ -7,19 +7,19 @@
 	[
 		"A File Icon",
 		"AdvancedNewFile",
+		"All Autocomplete",
 		"Babel",
 		"Babel Snippets",
+		"CustomPATH",
 		"ESLint",
 		"ESLint-Formatter",
 		"ESLintAutoFix",
 		"Git",
 		"GitSavvy",
+		"JsFormat",
 		"JsPrettier",
 		"Package Control",
 		"React Templates",
-		"ReactJS",
-		"SublimeLinter",
-		"SublimeLinter-contrib-eslint_d",
-		"SublimeLinter-eslint"
+		"sublimelint"
 	]
 }

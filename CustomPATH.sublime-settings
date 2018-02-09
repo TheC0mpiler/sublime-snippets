@@ -1,0 +1,8 @@
+{
+    // if true, Sublimes system path will be overridden with the custom path
+    "override": false,
+    // if true, the path will be appended at the front
+    "append_front": true,
+    // your custom path, on $PATH syntax aka. /path/one:/path/two:/path/n
+    "PATH":"/home/kudret/node_modules/.bin/eslint"
+}
